@@ -43,7 +43,7 @@ export default function Home() {
     <>
       <div className="flex justify-around">
         <div className="self-center">
-          <h2 className="font-bold">Dungeon13</h2>
+          <h2 className="font-bold">El-Calabozo</h2>
         </div>
         <WalletMultiButton className="btn btn-primary" />
       </div>

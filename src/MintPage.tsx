@@ -42,14 +42,14 @@ export default function MintPage() {
     <>
       <div className="flex justify-around">
         <div className="self-center">
-          <h2 className="font-bold">Dungeon13</h2>
+          <h2 className="font-bold">El-Calabozo</h2>
         </div>
         <WalletMultiButton className="btn btn-primary" />
       </div>
       <div className="h-screen">
         <div className="flex flex-col gap-3 h-[inherit] items-center justify-center">
-          <h2 className="font-bold">Dungeon13</h2>
-          <img src="/hero.png" alt="dungeon13" className="w-60" />
+          <h2 className="font-bold">El-Calabozo</h2>
+          <img src="/hero.png" alt="el-calabozo" className="w-60" />
           <span>Mint your Hero</span>
           <button className="btn btn-primary" onClick={mint}>
             Mint
