@@ -1,8 +1,5 @@
 # El-Calabozo
 
-> Real-time racing of horses running in different lanes on a straight route.
-> Live demo [_here_](). <!-- If you have the project hosted somewhere, include the link here. -->
-
 ## General Information
 
 - I learned how to build a dungeon theme game on Solana in this project. I covered the
